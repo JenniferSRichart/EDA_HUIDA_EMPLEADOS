@@ -1,4 +1,4 @@
-# Huida del talento y falta de Personal, en EL Sector hostelero post-COVID
+# Huida del talento y falta de Personal, en el Sector hostelero post-COVID
 
 Expertos hoteleros están presentando una realidad nunca vista, la huida del talento y escases de personal en el área del sector turístico, post-COVID , en dicho estudio se hará referencia específicamente a la Hostelería en la ciudad de Madrid. Problemática que al estar la ocupación de los hoteles muy bajo no se acentúa tanto como lo será en los próximos meses.
 
