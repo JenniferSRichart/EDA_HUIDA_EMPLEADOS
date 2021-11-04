@@ -73,6 +73,6 @@ Por tal razón se ha planteado la hipótesis basada en la experiencia de dicho t
 
 La calidad y veracidad de los datos esta garantizada ya que son extraídos de Entes gubernamentales e internacionales y especialistas en el área de Turismo. En relación a la disponibilidad el problema está que, con la pandemia, muchos de los datos que solían estar disponibles en el primer trimestre del año, aun no han sido publicados, posiblemente por que aun no se han procesado o porque no se pudieron extraer. 
     
-Es de acotar que los datos obtenidos se refieren a la Hostelería de Madrid en general y que, si se extrapolaran los valores por tipo de hoteles según estrellas, posiblemente podríamos encontrar cambios, ya que el comportamiento de un Hotel perteneciente a una Cadena Hotelera Internacional , no será igual al pequeño hostelero que le cuesta mantenerse a flote.
+Es de acotar que los datos obtenidos se refieren a la Hostelería de Madrid en general y que, si se extrapolaran los valores por tipo de hoteles según estrellas, posiblemente podríamos encontrar cambios, ya que el comportamiento de un Hotel perteneciente a una Cadena Hotelera Internacional, no será igual al pequeño hostelero que le cuesta mantenerse a flote.
 
 Para un próximo estudio se pueden analizar mas variables como: el sexo, y el tipo de hoteles (estrellas), los casos de COVID por países de proveniencia de turista a Madrid, las fechas especificas de cierres de fronteras y restricciones de los mismos, entre otras. Que por cumplimiento de fechas de entrega no han dado tiempo de verificar. 
